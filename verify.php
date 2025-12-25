@@ -33,90 +33,83 @@
                         <!-- start: BASIC TABLE PANEL -->
                         <div class="panel panel-default">
                             <div class="panel-body">
-                                <center><img src="<?php echo base_url() . 'logo11.png'; ?>"></center>
+                                <center><img src="logo11.png"></center>
                                 <br />
                                     <table class="table_detail">
-                                        
-                                        
-                                        
                                         <tr>
                                             <td width="30%">File No</td>
-                                            <td width="70%"><?php echo 'Test'; ?></td>
+                                            <td width="70%">Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Acknowledgment Date</td>
                                             
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Town</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Owner Name</td>
-                                            <td>
-                                                <?php
-                                                    echo 'Test';
-                                                ?>
-                                            </td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Licensed Professional Name</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Plot Area (in Sq. Yd)</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Status of Plot</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Proposed No. of Floors</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Covered Area in Sq. Ft.</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Type of Building</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Final Approval No.</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Final Approval Date</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
 
                                         <tr>
                                             <td>Final Issued Date</td>
-                                            <td><?php echo 'Test' ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                         <tr>
                                             <td>Plot Number</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
 
                                         <tr>
                                             <td>Proposal Status</td>
-                                            <td><?php echo 'Test'; ?></td>
+                                            <td>Test</td>
                                         </tr>
                                         
                                     </table>
@@ -128,10 +121,6 @@
 
             </div>
         </div>
-        
-        
-        
-        <?php //echo "<pre>"; print_r($lp_data); exit; ?>
 
     </body>
 </html>
